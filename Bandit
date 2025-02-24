@@ -1,0 +1,14 @@
+Bandit0 --> ssh bandit0@16.16.163.126 -p 2220
+  pass for B1 --> ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+Bandit1 --> Open file name -, (cat > -, cat ./-FileName )
+  pass for B2 --> 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+Bandit2 --> Open file with sapce in filename, ( cat 'File name')
+  pass for B3 --> MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
+Bandit3 --> Open hidden file (cat .Filrname)
+  pass for B4 --> 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
+Bandit4 --> Check for human readable (file ./*)
+  Pass for B5 --> 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
