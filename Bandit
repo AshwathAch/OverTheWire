@@ -44,6 +44,10 @@ Bandit12 --> Find file compression type, Decompress till text file.
 Bandit13 --> SSH from 13 to 14 with sshkey given ssh -i sshkey.private bandit14@localhost -p 2220. 
   Pass for B14 --> MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
-Bandit14 --> 
+Bandit14 --> Telnet localhost 30000
+  Pass for B15 --> 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 
+Bandit15 --> openssl s_client -connect localhost:30001 
+  Pass for b16 --> kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 
+Bandit16 -->
