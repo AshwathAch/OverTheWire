@@ -12,3 +12,17 @@ Bandit3 --> Open hidden file (cat .Filrname)
 
 Bandit4 --> Check for human readable (file ./*)
   Pass for B5 --> 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+Bandit5 --> find -type f -size 1033c -readable ! -executable
+  Pass For B6 --> HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+
+Bandit6 --> find / -user username -group groupname -size size 2>/dev/null
+ --- 2>/dev/null : Suppress permission errors
+  Pass for B7 --> morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
+Bandit7 --> grep "millionth" data.txt | (awk {print $2} --> Print only next word to millionth) 
+  Pass for B8 --> dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+
+Bandit8 --> sort data.txt | uniq -u
+--- uniq -c (Count), sort -n (Sort the result numerically)
+  Pass for B9 --> 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
