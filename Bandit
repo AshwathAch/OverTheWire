@@ -33,3 +33,12 @@ Bandit9 --> strings data.txt | grep "======" | awk ('{print $NF}' Print after ==
 Bandit10 --> cat data.txt | base64 -d
 --- Decodes with base64 before printing
   Pass for B11 --> dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr 
+
+Bandit11 --> cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m' // Or user rot13 website
+  Pass for B12 --> 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+
+Bandit12 --> 
+
+
+
+
