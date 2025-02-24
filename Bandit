@@ -26,3 +26,10 @@ Bandit7 --> grep "millionth" data.txt | (awk {print $2} --> Print only next word
 Bandit8 --> sort data.txt | uniq -u
 --- uniq -c (Count), sort -n (Sort the result numerically)
   Pass for B9 --> 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+
+Bandit9 --> strings data.txt | grep "======" | awk ('{print $NF}' Print after ===)
+  pass for B10 --> FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+Bandit10 --> cat data.txt | base64 -d
+--- Decodes with base64 before printing
+  Pass for B11 --> dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr 
