@@ -50,4 +50,9 @@ Bandit14 --> Telnet localhost 30000
 Bandit15 --> openssl s_client -connect localhost:30001 
   Pass for b16 --> kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 
-Bandit16 -->
+Bandit16 --> nmap -p 31000-32000 --script ssl-cert -T5 localhost, ncat --ssl localhost <port>. 
+---  Give current password, Save RSA, ssh -i rsa.key bandit17@localhost
+  Pass for B17 --> Only RSA KEY no password.
+
+Bandit17 --> diff pass.new pass.old
+  Pass for B18 --> x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
