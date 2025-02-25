@@ -56,3 +56,8 @@ Bandit16 --> nmap -p 31000-32000 --script ssl-cert -T5 localhost, ncat --ssl loc
 
 Bandit17 --> diff pass.new pass.old
   Pass for B18 --> x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
+
+Bandit18 --> Attach cmd along ssh req with -t : -t " cat readme"
+  Pass for B19: cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
+
+Bandit19 --> 
