@@ -60,4 +60,19 @@ Bandit17 --> diff pass.new pass.old
 Bandit18 --> Attach cmd along ssh req with -t : -t " cat readme"
   Pass for B19: cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
 
-Bandit19 --> 
+Bandit19 --> ./bandit20-do cat /etc/bandit_pass/bandit20, 
+---  -rwsr-x--- 1 bandit20 bandit19 14880 Sep 19 07:08 bandit20-do
+  Pass for B20 --> 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
+
+Bandit20 --> 
+
+
+
+
+
+
+
+
+
+
+
