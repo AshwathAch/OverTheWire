@@ -74,8 +74,11 @@ Bandit21 --> See cron configuration that leads to password file.
 Bandit22 --> See cron config.
   Pass for B23 --> 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
 
+Bandir23 --> Cron file.
+  Pass for B24 --> gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
 
-
+Bandit24 --> for i in {0000..9999}; do echo “UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ $i”; done | nc localhost 30002
+  Pass for 25 --> iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
 
 
 
