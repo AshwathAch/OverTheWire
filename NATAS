@@ -1,8 +1,29 @@
 N0 --> add view-source before url
-  N1 pass --> 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
+  N1 --> 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
 
 N1 --> add view-source before url if right click is disabled.
-  N2 pass --> TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI
+  N2 --> TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI
 
-N2 --> 
-  N3 pass -->
+N2 --> see other path /files
+  N3 --> 3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
+
+N3 --> /robots.txt
+  N4 --> QryZXc2e0zahULdHrtHxzyYkj59kUxLQ
+
+N4 --> Capture packet and change referer.
+  N5 --> 0n35PkggAPm2zbEpOU802c0x0Msn1ToK
+
+N5 --> Intercept and chnage loh=gin from 0 to 1
+  N6 --> 0RoJwHdSKWFTYR5WuiAewauSuNaBXned
+
+N6 --> View source, add include url, submit secret
+  N7 --> bmg8SvU1LizuWjx3y7xkNERkHxGre0GS 
+
+N7 --> add path from view source, go to home or about and add path
+  N8 --> xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q 
+
+N8 --> View Source and use encoder function to decode secret.
+  N9 --> ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t
+
+N9 -->
+  N10 -->
