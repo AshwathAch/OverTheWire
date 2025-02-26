@@ -71,6 +71,14 @@ Bandit20 --> cat /etc/bandit_pass/bandit20 | nc -lvp 1234 &
 Bandit21 --> See cron configuration that leads to password file.
   Pass for B22 --> tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
 
+Bandit22 --> See cron config.
+  Pass for B23 --> 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
+
+
+
+
+
+
 
 
 
