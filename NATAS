@@ -25,5 +25,25 @@ N7 --> add path from view source, go to home or about and add path
 N8 --> View Source and use encoder function to decode secret.
   N9 --> ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t
 
-N9 -->
-  N10 -->
+N9 --> Input sanitization not there so use it send command and get password.
+  N10 --> t7I5VHvpa14sJTUGV0cbEsbYfFP2dmOu
+
+N10 --> Input checked but .* also canbe used to get input.
+  N11 --> UJdqkK1pTu6VLt9UHWAgRZz6sVUZ3lEk
+
+N11 --> See functiion encode and decode cookie and replace cookie.
+--- %3D at the end is a URL-encoded version of =
+  N12 --> yZdkjAYZRd3R7tq7T5kXMjMJlOIkzDeB
+
+N12 --> 
+  N13 --> 
+
+
+
+
+
+
+
+
+
+
