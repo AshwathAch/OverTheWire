@@ -66,6 +66,8 @@ N19 -->  get cookie for every login try. Decode for common and use intruder to s
 N20 --> set xx%0Aadmin%201 in name uding burp(repeater)
   N21 --> BPhv63cKE1lkQl04cE5CuFTzXe15NfiH
 
+N21 --> add admin=1(make as admin) in colocated page and copy the cookie and paste in page 1.
+  N22 --> d8rwGBl0Xslg3b76uh3fEbSlnOUBlozz
 
 
 
